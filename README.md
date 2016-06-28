@@ -1,4 +1,4 @@
 # Barber Hour android
-![TrucoMarreco](img/ic_launcher.png)
+![BarberHour](img/logo.png)
 
 First version of Barber Hour App, written in Java
