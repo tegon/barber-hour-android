@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BarberHour</string>
+    <string name="app_title">Barber Hour</string>
+    <string name="app_description">Marque seu corte de cabelo sem sair de casa!</string>
+    <string name="facebook_app_id">1199080206788760</string>
+    <string name="new_barber_button">Sou barbeiro</string>
+    <string name="new_user_button">Login com facebook</string>
+</resources>
